@@ -186,3 +186,9 @@ Remove o grupo de recursos e todos os recursos associados.
 - Azure CLI
 - Azure App Service (Linux, Docker)
 - Azure SQL Database
+
+## 📌 Acesso ao Azure Boards
+O gerenciamento do backlog, épicos, features, PBIs, tarefas, sprints e release plan foi realizado no Azure Boards:
+
+🔗 **Link para o Azure Boards:**  
+https://dev.azure.com/RM555368/Backlog%20-%20Projeto%20MotoTrack/_backlogs/backlog/Backlog%20-%20Projeto%20MotoTrack%20Team/Epics
