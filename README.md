@@ -192,3 +192,6 @@ O gerenciamento do backlog, épicos, features, PBIs, tarefas, sprints e release 
 
 🔗 **Link para o Azure Boards:**  
 https://dev.azure.com/RM555368/Backlog%20-%20Projeto%20MotoTrack/_backlogs/backlog/Backlog%20-%20Projeto%20MotoTrack%20Team/Epics
+
+### 🎥 Vídeo de Apresentação
+[Assista ao vídeo da entrega do projeto](https://youtu.be/jH8FyWtM1U8?si=KCWCy2NDtaeYuXPz)
